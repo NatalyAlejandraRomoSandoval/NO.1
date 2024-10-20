@@ -1,0 +1,5 @@
+a = nat
+if a == nat
+   print ("a es nat")
+else 
+   print ("a no es nat")
